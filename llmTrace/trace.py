@@ -6,7 +6,6 @@ import functools
 import json
 import os
 import time
-import traceback
 from datetime import datetime
 from typing import Any, Callable
 
